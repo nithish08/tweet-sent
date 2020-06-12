@@ -1,4 +1,5 @@
 data/inter
 .ipynb_checkpoints
 .DS_store
+pretrained_models
 *.pth
