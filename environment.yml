@@ -1,4 +1,4 @@
-name: base
+name: dl
 channels:
   - defaults
 dependencies:
@@ -337,5 +337,4 @@ dependencies:
     - torchvision==0.6.0
     - transformers==2.11.0
     - xgboost==1.1.1
-prefix: /Users/nithish/anaconda3
 
