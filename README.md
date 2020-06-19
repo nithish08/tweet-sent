@@ -1,5 +1,7 @@
-# Tweet Sentiment Extraction
-Repo for Tweet sentiment extraction Challenge. https://www.kaggle.com/c/tweet-sentiment-extraction
+# Apply transformer models for Question Answering task
+
+## Data used
+Data downloaded from here https://www.kaggle.com/c/tweet-sentiment-extraction
 
 # Problem
 
@@ -39,7 +41,7 @@ and apply BERT-based models like RoBERTa, ALBERT models. (Current state-of-art m
 
 Judging by the notebooks in the competition page, BERT-based models seem to outperform other approaches. Based 
 
-TODO
-- [ ] Apply ALBERT model and record cv-score
-- [ ] Apply BERT model and record cv-score
+Model Implemented
+- [x] Apply ALBERT model and record cv-score
+- [x] Apply BERT model and record cv-score
 
