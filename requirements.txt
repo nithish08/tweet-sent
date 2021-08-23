@@ -96,7 +96,7 @@ jupyter-core==4.6.1
 jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
-jupyterlab==2.1.4
+jupyterlab==2.2.10
 jupyterlab-git==0.20.0
 jupyterlab-server==1.1.5
 keyring==21.1.0
